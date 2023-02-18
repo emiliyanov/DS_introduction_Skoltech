@@ -1,2 +1,15 @@
 # DS_introduction_Skoltech
-Introdaction to data scietnce. Opportunity analysis of pandas and seaborn libraries.
+
+HW1:
+> Table analysis
+> 
+> Opportunity analysis of pandas library
+> 
+> Fitting basic ML models
+> 
+> Metrics
+
+HW2:
+> Data visualization with seaborn library
+> 
+> Working with features
